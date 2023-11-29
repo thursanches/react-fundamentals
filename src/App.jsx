@@ -28,8 +28,8 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: "https://github.com/thursanches.png",
-      name: "Lisa",
+      avatarUrl: "https://github.com/maykbrito.png",
+      name: "Mayk",
       role: "Educator",
     },
     content: [

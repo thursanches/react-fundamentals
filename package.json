@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "date-fns": "^2.30.0",
     "json5": "^2.2.3",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",

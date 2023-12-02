@@ -16,7 +16,7 @@ export function Comment({ content }) {
           <header>
             <div className={styles.authorAndTime}>
               <strong>Arthur Sanches</strong>
-              <time title="16 de Novembro" dataTime="2022-11-16">
+              <time title="16 de Novembro" dateTime="2022-11-16">
                 Publicado há 1h atrás.
               </time>
             </div>

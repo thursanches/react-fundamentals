@@ -65,7 +65,7 @@
 .commentBox footer button {
   background: transparent;
   border: 0;
-  color: var(--gay-400);
+  color: var(--gray-400);
   cursor: pointer;
 
   display: flax;

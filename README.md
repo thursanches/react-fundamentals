@@ -1,7 +1,7 @@
 <h1>About</h1>
 <p>Ignite Feed, a React application using Vite, created during the first module of the Rocketseat training, where I learned about the most important React concepts, including componentization, properties, states, immutability and hooks, as well as applying TypeScript to add static typing to the application.</p>
 
-<b>Access the version with TypeScript: https://github.com/thursanches/react-fundamentals-typescript<b>
+<b>Access the version with TypeScript: https://github.com/thursanches/react-fundamentals-typescript</b>
 
 <h1>How to run on the desktop</h1>
 <ol> 
